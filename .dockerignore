@@ -1,0 +1,14 @@
+.git
+.idea
+*.iml
+
+chat-client/target
+chat-common/target
+chat-server/target
+secrets/
+target
+
+.env
+*.log
+
+.DS_Store

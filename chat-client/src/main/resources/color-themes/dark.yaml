@@ -1,0 +1,17 @@
+name: "Dark Mode"
+# Array elements are rgb values (red, green, blue in that order)
+primary_color: [9, 38, 53]
+navbar_color: [35, 76, 106]
+sidebar_color: [27, 60, 83]
+sidebar_active_color: [25, 108, 168]
+
+searchbar_color: [70, 101, 124]
+search_prompt_color: [179, 178, 178]
+
+active_bubble_color: [30, 183, 229]
+bubble_color: [27, 60, 83]
+deleted_bubble_color: [100, 110, 125]
+
+modal_background: [18, 43, 60]
+
+text_color: [255, 255, 255]

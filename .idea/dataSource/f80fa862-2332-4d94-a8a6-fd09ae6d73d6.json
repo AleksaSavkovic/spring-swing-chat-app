@@ -1,0 +1,238 @@
+{
+  "name" : null,
+  "CHARSETS" : [ {
+    "CHARSET_NAME" : "armscii8",
+    "DISPLAY_NAME" : "armscii8",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 1
+  }, {
+    "CHARSET_NAME" : "ascii",
+    "DISPLAY_NAME" : "ascii",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 1
+  }, {
+    "CHARSET_NAME" : "big5",
+    "DISPLAY_NAME" : "big5",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 2
+  }, {
+    "CHARSET_NAME" : "binary",
+    "DISPLAY_NAME" : "binary",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 1
+  }, {
+    "CHARSET_NAME" : "cp1250",
+    "DISPLAY_NAME" : "cp1250",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 1
+  }, {
+    "CHARSET_NAME" : "cp1251",
+    "DISPLAY_NAME" : "cp1251",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 1
+  }, {
+    "CHARSET_NAME" : "cp1256",
+    "DISPLAY_NAME" : "cp1256",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 1
+  }, {
+    "CHARSET_NAME" : "cp1257",
+    "DISPLAY_NAME" : "cp1257",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 1
+  }, {
+    "CHARSET_NAME" : "cp850",
+    "DISPLAY_NAME" : "cp850",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 1
+  }, {
+    "CHARSET_NAME" : "cp852",
+    "DISPLAY_NAME" : "cp852",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 1
+  }, {
+    "CHARSET_NAME" : "cp866",
+    "DISPLAY_NAME" : "cp866",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 1
+  }, {
+    "CHARSET_NAME" : "cp932",
+    "DISPLAY_NAME" : "cp932",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 2
+  }, {
+    "CHARSET_NAME" : "dec8",
+    "DISPLAY_NAME" : "dec8",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 1
+  }, {
+    "CHARSET_NAME" : "eucjpms",
+    "DISPLAY_NAME" : "eucjpms",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 3
+  }, {
+    "CHARSET_NAME" : "euckr",
+    "DISPLAY_NAME" : "euckr",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 2
+  }, {
+    "CHARSET_NAME" : "gb18030",
+    "DISPLAY_NAME" : "gb18030",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 4
+  }, {
+    "CHARSET_NAME" : "gb2312",
+    "DISPLAY_NAME" : "gb2312",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 2
+  }, {
+    "CHARSET_NAME" : "gbk",
+    "DISPLAY_NAME" : "gbk",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 2
+  }, {
+    "CHARSET_NAME" : "geostd8",
+    "DISPLAY_NAME" : "geostd8",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 1
+  }, {
+    "CHARSET_NAME" : "greek",
+    "DISPLAY_NAME" : "greek",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 1
+  }, {
+    "CHARSET_NAME" : "hebrew",
+    "DISPLAY_NAME" : "hebrew",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 1
+  }, {
+    "CHARSET_NAME" : "hp8",
+    "DISPLAY_NAME" : "hp8",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 1
+  }, {
+    "CHARSET_NAME" : "keybcs2",
+    "DISPLAY_NAME" : "keybcs2",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 1
+  }, {
+    "CHARSET_NAME" : "koi8r",
+    "DISPLAY_NAME" : "koi8r",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 1
+  }, {
+    "CHARSET_NAME" : "koi8u",
+    "DISPLAY_NAME" : "koi8u",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 1
+  }, {
+    "CHARSET_NAME" : "latin1",
+    "DISPLAY_NAME" : "latin1",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 1
+  }, {
+    "CHARSET_NAME" : "latin2",
+    "DISPLAY_NAME" : "latin2",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 1
+  }, {
+    "CHARSET_NAME" : "latin5",
+    "DISPLAY_NAME" : "latin5",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 1
+  }, {
+    "CHARSET_NAME" : "latin7",
+    "DISPLAY_NAME" : "latin7",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 1
+  }, {
+    "CHARSET_NAME" : "macce",
+    "DISPLAY_NAME" : "macce",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 1
+  }, {
+    "CHARSET_NAME" : "macroman",
+    "DISPLAY_NAME" : "macroman",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 1
+  }, {
+    "CHARSET_NAME" : "sjis",
+    "DISPLAY_NAME" : "sjis",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 2
+  }, {
+    "CHARSET_NAME" : "swe7",
+    "DISPLAY_NAME" : "swe7",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 1
+  }, {
+    "CHARSET_NAME" : "tis620",
+    "DISPLAY_NAME" : "tis620",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 1
+  }, {
+    "CHARSET_NAME" : "ucs2",
+    "DISPLAY_NAME" : "ucs2",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 2
+  }, {
+    "CHARSET_NAME" : "ujis",
+    "DISPLAY_NAME" : "ujis",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 3
+  }, {
+    "CHARSET_NAME" : "utf16",
+    "DISPLAY_NAME" : "utf16",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 4
+  }, {
+    "CHARSET_NAME" : "utf16le",
+    "DISPLAY_NAME" : "utf16le",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 4
+  }, {
+    "CHARSET_NAME" : "utf32",
+    "DISPLAY_NAME" : "utf32",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 4
+  }, {
+    "CHARSET_NAME" : "utf8mb3",
+    "DISPLAY_NAME" : "utf8mb3",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 3
+  }, {
+    "CHARSET_NAME" : "utf8mb4",
+    "DISPLAY_NAME" : "utf8mb4",
+    "IS_DEPRECATED" : "N",
+    "MAX_LENGTH" : 4
+  } ],
+  "USERS" : [ {
+    "USER_NAME" : "'restadmin'@'%'",
+    "IS_EXPIRED" : "N",
+    "IS_LOCKED" : "N"
+  } ],
+  "SYSTEM_PRIVILEGES" : [ {
+    "PRIVILEGE_NAME" : "USAGE"
+  } ],
+  "SCHEMAS" : [ {
+    "SCHEMA_NAME" : "chatdb",
+    "IS_PUBLIC" : "N",
+    "IS_SYSTEM" : "N",
+    "IS_EMPTY" : "N"
+  }, {
+    "SCHEMA_NAME" : "information_schema",
+    "IS_PUBLIC" : "N",
+    "IS_SYSTEM" : "Y",
+    "IS_EMPTY" : "N"
+  }, {
+    "SCHEMA_NAME" : "performance_schema",
+    "IS_PUBLIC" : "N",
+    "IS_SYSTEM" : "N",
+    "IS_EMPTY" : "N"
+  }, {
+    "SCHEMA_NAME" : "restdb",
+    "IS_PUBLIC" : "N",
+    "IS_SYSTEM" : "N",
+    "IS_EMPTY" : "N"
+  } ]
+}

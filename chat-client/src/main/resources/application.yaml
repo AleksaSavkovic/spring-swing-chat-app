@@ -1,0 +1,8 @@
+server:
+  production: false
+  http:
+#    url: http://127.0.0.1:8080
+    url: https://localhost:8443
+  socket:
+    url: localhost
+    port: 5000

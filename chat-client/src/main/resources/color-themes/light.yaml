@@ -1,0 +1,17 @@
+name: "Light Mode"
+# Array elements are rgb values (red, green, blue in that order)
+primary_color: [220, 230, 239]
+navbar_color: [194, 211, 226]
+sidebar_color: [205, 220, 234]
+sidebar_active_color: [102, 178, 255]
+
+searchbar_color: [235, 242, 248]
+search_prompt_color: [95, 107, 120]
+
+active_bubble_color: [30, 183, 229]
+bubble_color: [188, 208, 228]
+deleted_bubble_color: [161, 175, 196]
+
+modal_background: [226, 235, 243]
+
+text_color: [38, 47, 56]

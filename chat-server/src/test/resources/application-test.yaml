@@ -1,0 +1,8 @@
+jwt:
+  secret: "ty/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa==t"
+  expiration: 900000
+  refreshExpiration: 2592000000
+
+app:
+  upload:
+    dir: ${java.io.tmpdir}/chat-app-test/images

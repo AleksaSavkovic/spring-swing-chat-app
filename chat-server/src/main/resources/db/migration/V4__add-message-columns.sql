@@ -1,0 +1,13 @@
+ALTER TABLE message
+MODIFY COLUMN message_type ENUM ('CHAT_MESSAGE', 'FILE_MESSAGE') NOT NULL;
+
+ALTER TABLE message
+ADD COLUMN reply_to_id VARCHAR(36),
+ADD COLUMN is_active TINYINT(1) NOT NULL DEFAULT 1;
+
+ALTER TABLE message
+	ADD CONSTRAINT fk_message_reply_to
+	FOREIGN KEY (reply_to_id) REFERENCES message(id);
+
+
+
