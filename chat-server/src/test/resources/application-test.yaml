@@ -1,7 +1,14 @@
+# Test-only configuration. Do not use these credentials in production.
 jwt:
   secret: "ty/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa==t"
   expiration: 900000
   refreshExpiration: 2592000000
+
+server:
+  socket:
+    tls:
+      key-store: ${java.io.tmpdir}/opt/secrets
+      key-store-password: password
 
 app:
   upload:
