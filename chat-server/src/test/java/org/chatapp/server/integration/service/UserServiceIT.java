@@ -7,6 +7,7 @@ import org.chatapp.server.entities.User;
 import org.chatapp.server.factory.TestDataHelper;
 import org.chatapp.server.integration.config.MyTestConfiguration;
 import org.chatapp.server.service.UserService;
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -29,6 +30,11 @@ public class UserServiceIT {
     UserService userService;
     @Autowired
     TestDataHelper testDataHelper;
+
+    @BeforeEach
+    void setUp() {
+        testDataHelper.clearUserRepository();
+    }
 
     @Transactional
     @Test

@@ -26,6 +26,10 @@ public class TestDataHelper {
     @Autowired
     private RefreshTokenRepository refreshTokenRepository;
 
+    public void clearUserRepository() {
+        userRepository.deleteAll();
+    }
+
     public User saveUser() {
         return userRepository.save(UserTestFactory.createUser());
     }
